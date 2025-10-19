@@ -1,4 +1,4 @@
-# MLfromScratch
+# ScratchML
 
 **Implementing machine learning and deep learning algorithms from scratch using foundational libraries like NumPy/Jax, Pandas.**
 
