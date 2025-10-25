@@ -56,6 +56,22 @@ More models coming soon!
 - **Encoders:**
   - LabelEncoder
   - OrdinalEncoder
+- **<a href="documentation/activations.md">Activations:</a>**
+  - Sigmoid
+  - TanH
+  - ReLU
+  - LeakyReLU
+  - ELU
+  - GeLU
+  - SeLU
+  - ThresholdedReLU
+  - Softmax
+  - LogSoftmax
+  - Swish
+  - Mish
+  - HardSigmoid
+  - HardSwish
+  - Maxout
 
 ## Datasets
 
