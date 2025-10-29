@@ -72,6 +72,16 @@ More models coming soon!
   - HardSigmoid
   - HardSwish
   - Maxout
+- **<a href="docuumentation/criterion.md">Criterion:</a>**
+  - Binary Cross Entropy
+  - Hinge Loss
+  - Huber Loss
+  - Mean Absolute Error
+  - Mean Absolute Percentage Error
+  - Mean Square Error
+  - R2
+  - Root Mean Square Error
+  - Symmetric Mean Absolute Percentage Error
 
 ## Datasets
 
